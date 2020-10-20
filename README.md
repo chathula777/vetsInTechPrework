@@ -63,7 +63,7 @@ If at any point, you are stuck and unsure of how to proceed, feel free to google
 1. Stage, Commit, and Push your changes back up to your Github Repository
 
 ```git
-commit with the following message: [Your Name] has completed the Vets In Tech Pre-work
+commit with the following message: Chathula Magage has completed the Vets In Tech Pre-work
 ```
 
 if you need more information on how to do this refer to this crash course on Git **[Git Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=emb_logo)**
